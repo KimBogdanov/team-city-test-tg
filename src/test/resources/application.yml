@@ -1,0 +1,11 @@
+telegram:
+  bot:
+    name: "kim_test_01_bot"
+    token: "7118478071jwBaoE"
+
+server:
+  port: 8080
+
+middle-server:
+  url:
+    http://localhost:9090

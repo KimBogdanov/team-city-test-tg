@@ -1,0 +1,14 @@
+telegram:
+  bot:
+    token:
+      "7118478071:AAESupv9Kusb-RGtj3Jtpnt0gtcDxjwBaoE"
+    #          Insert bot token. Example "1231312:jdhsjhfksjdfh"
+    name:
+      "kim_test_01_bot"
+    #      Insert bot name. Example "my_test_bot"
+server:
+  port: 8080
+
+middle-server:
+  url:
+    http://localhost:9090
