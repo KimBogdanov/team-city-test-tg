@@ -1,10 +1,10 @@
 telegram:
   bot:
     token:
-      ${TOKEN:teamcity}
+      ${TOKEN}
     #          Insert bot token. Example "1231312:jdhsjhfksjdfh"
     name:
-      ${NAME:teamcity}
+      ${NAME}
     #      Insert bot name. Example "my_test_bot"
 server:
   port: 8080
