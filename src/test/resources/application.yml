@@ -8,4 +8,4 @@ server:
 
 middle-server:
   url:
-    http://localhost:9090
+    http://localhost:7070

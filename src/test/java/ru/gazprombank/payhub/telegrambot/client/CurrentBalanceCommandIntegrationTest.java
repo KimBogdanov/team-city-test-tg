@@ -18,7 +18,7 @@ import static org.mockito.Mockito.spy;
 import static org.mockito.Mockito.verify;
 
 @SpringBootTest
-@AutoConfigureWireMock(port = 9090)
+@AutoConfigureWireMock(port = 7070)
 public class CurrentBalanceCommandIntegrationTest {
     @Autowired
     private CurrentBalanceCommand command;

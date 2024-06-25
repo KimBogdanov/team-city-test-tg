@@ -18,7 +18,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.spy;
 
 @SpringBootTest
-@AutoConfigureWireMock(port = 9090)
+@AutoConfigureWireMock(port = 7070)
 public class CreateAccountCommandIntegrationTest {
     @Autowired
     private CreateAccountCommand command;
